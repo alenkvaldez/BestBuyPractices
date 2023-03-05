@@ -1,0 +1,5 @@
+C:\Users\alenk\source\repos\BestBuyPractices\BestBuyPractices\obj\Debug\net6.0\BestBuyPractices.csproj.AssemblyReference.cache
+C:\Users\alenk\source\repos\BestBuyPractices\BestBuyPractices\obj\Debug\net6.0\BestBuyPractices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alenk\source\repos\BestBuyPractices\BestBuyPractices\obj\Debug\net6.0\BestBuyPractices.AssemblyInfoInputs.cache
+C:\Users\alenk\source\repos\BestBuyPractices\BestBuyPractices\obj\Debug\net6.0\BestBuyPractices.AssemblyInfo.cs
+C:\Users\alenk\source\repos\BestBuyPractices\BestBuyPractices\obj\Debug\net6.0\BestBuyPractices.csproj.CoreCompileInputs.cache
